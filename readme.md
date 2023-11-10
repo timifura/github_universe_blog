@@ -17,17 +17,20 @@
 
 https://twitter.com/ashtom/status/1712711168207577262?t=8B5pXK1yrFC3QvIsVGO4LQ&s=19
 
-
 ## 「LLM + GitHub連携による、セキュリティやワークフローの自動化」がテーマだと思った
 今回カンファレンスで「CopilotのUpdate」が大きな話題になっていましたが、私は、それよりも、
 LLMとGitHub連携による、セキュリティやワークフローの自動化についてが、今後の開発のトレンドになると感じました。
 また、今回のCopilotのUpdateについても思いました。
 
-### 私個人の紹介
-
-
+### 私の紹介
+![me](img/me.jpeg)
+masato matsudoと申します。 毎日contributeするを心がけています。
 経歴等を全部書くと長くなるので、割愛しますが、今は、株式会社大阪ヒートクールでEdge & Software Engineer
-や、別のスタートアップでVPOE、Mobile開発、kubernetesをやっています。好きな事は、kubernetesのPodをRolloutすることで、
+や、別のスタートアップでVPOE、Mobile開発、kubernetesをやっています。
+
+![contribute](img/github.png)
+
+好きな事は、kubernetesのPodをRolloutすることで、
 `k rollout deploy <deployment名> -n <namespace名>`をするのが好きです。
 
 ![loop](img/loop.jpeg)
@@ -38,3 +41,9 @@ LLMとGitHub連携による、セキュリティやワークフローの自動�
 とても好きです。
 
 https://www.oreilly.com/library/view/97-things-every/9781492050896/ch73.html
+
+さて、話の本題に戻りたいと思います。
+
+
+### 「LLM + GitHub連携による、セキュリティやワークフローの自動化」
+
