@@ -17,10 +17,12 @@
 
 https://twitter.com/ashtom/status/1712711168207577262?t=8B5pXK1yrFC3QvIsVGO4LQ&s=19
 
-## 「LLM + GitHub連携による、セキュリティやワークフローの自動化」がテーマだと思った
+## 今回の「LLM + GitHub連携による、セキュリティやCI/CDワークフローの自動化」がテーマだと思った
 今回カンファレンスで「CopilotのUpdate」が大きな話題になっていましたが、私は、それよりも、
 LLMとGitHub連携による、セキュリティやワークフローの自動化についてが、今後の開発のトレンドになると感じました。
-また、今回のCopilotのUpdateについても思いました。
+
+![faster](img/55_faster.jpg)
+また、今回のCopilotのUpdateについても触れたいと思います。
 
 ### 私の紹介
 ![me](img/me.jpeg)
@@ -45,5 +47,58 @@ https://www.oreilly.com/library/view/97-things-every/9781492050896/ch73.html
 さて、話の本題に戻りたいと思います。
 
 
-### 「LLM + GitHub連携による、セキュリティやワークフローの自動化」
+### 「LLM + GitHub連携による、セキュリティやCI/CDワークフローの自動化」
 
+![floor](img/floor.jpg)
+
+Github Universeでは、おそらくスポンサーのブースが設けられ、大きく3つのグループが存在しました。
+正確には公式的には、2つのグループですが、
+
+![group-1](img/group-1.jpg)
+
+![microsoft](img/microsoft.jpg)
+画像のスポンサー1が、おそらく、全面的にBackUpしてる企業で、合計7社で、大体聞いた事がある 会社さんが並んでいました。
+
+スポンサー1のところのテーマは、そもそも開発体験のリードといったところでしょうか。
+主に、セキュリティの自動化や、Docker Imageのセキュリティに以上があるかのチェックを自動化を中心とするテーマがメインだったと思っています。
+どちらかというと、スポンサー1は、名前をより売る為に、Github Universeのメインフロアを使って、自社の製品を知ってもらうという感じでした。
+
+
+- Docker
+
+https://www.docker.com/
+
+- DataDog
+
+https://www.datadoghq.com/ja/lpg/?utm_source=advertisement&utm_medium=search&utm_campaign=dg-google-brand-ww&utm_keyword=%2Bdatadog&utm_matchtype=b&utm_campaignid=9551169254&utm_adgroupid=95325237782&gad_source=1&gclid=CjwKCAiAxreqBhAxEiwAfGfndMn0dnfssBUurjYXEFSbVTRnOtyGp4TX6wjFVo7_S0pMtoi4o4tF_hoCBAQQAvD_BwE
+
+- PostMan
+
+https://www.postman.com/
+
+- octopus Deploy
+
+https://octopus.com/
+
+- microsoft
+  
+https://www.microsoft.com/en-us/
+
+- xebia
+
+https://xebia.com/
+
+- arm
+
+https://www.arm.com/
+
+![sponser](img/sponser2.jpg)
+
+スポンサー2については、利用ユーザーはかなりいるが、少しマイナーでもあるといった企業が立ち並んでいました。
+(マイナーといっていいのかは不明ですが。)
+
+私個人的に、このスポンサー2のテーマについては、今後の開発のトレンドになると思っています。
+
+
+
+####
