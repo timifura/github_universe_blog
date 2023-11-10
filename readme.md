@@ -3,6 +3,8 @@
 ![universe](img/universe_front.jpg)
 
 私は、2023年 11/08~11/09にサンフランシスコでGithub最大の開発者カンファレンスに参加してきました。
+
+![universe](img/universe_img.jpg)
 この記事では、 カンファレンス自体の具体的なgithubのアップデート機能についてというよりか、現地の実際に
 展示してる、ITスタートアップの傾向と今後の市況予想について、感じてきたことについてを書いていきます。
 
@@ -44,14 +46,23 @@ masato matsudoと申します。 毎日contributeするを心がけています�
 
 https://www.oreilly.com/library/view/97-things-every/9781492050896/ch73.html
 
-さて、話の本題に戻りたいと思います。
+さて、Github Universeに戻りたいと思います。
+
+
+### Unique of the Unique
+
+
 
 
 ### 「LLM + GitHub連携による、セキュリティやCI/CDワークフローの自動化」
 
-![floor](img/floor.jpg)
 
+![img](img/sponser_ima.png)
+
+![floor](img/floor.jpg)
 Github Universeでは、おそらくスポンサーのブースが設けられ、大きく3つのグループが存在しました。
+
+
 正確には公式的には、2つのグループですが、
 
 ![group-1](img/group-1.jpg)
