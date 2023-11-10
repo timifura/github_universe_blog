@@ -23,7 +23,8 @@ https://twitter.com/ashtom/status/1712711168207577262?t=8B5pXK1yrFC3QvIsVGO4LQ&s
 今回カンファレンスで「CopilotのUpdate」が大きな話題になっていましたが、私は、それよりも、
 LLMとGitHub連携による、セキュリティやワークフローの自動化についてが、今後の開発のトレンドになると感じました。
 
-![faster](img/55_faster.jpg)
+![start_session](img/start_session.jpg)
+
 また、今回のCopilotのUpdateについても触れたいと思います。
 
 ### 私の紹介
