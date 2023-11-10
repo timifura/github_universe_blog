@@ -3,10 +3,10 @@
 ![universe](img/universe_front.jpg)
 
 私は、2023年 11/08~11/09にサンフランシスコでGithub最大の開発者カンファレンスに参加してきました。
-
-![universe](img/universe_img.jpg)
 この記事では、 カンファレンス自体の具体的なgithubのアップデート機能についてというよりか、現地の実際に
 展示してる、ITスタートアップの傾向と今後の市況予想について、感じてきたことについてを書いていきます。
+
+![universe](img/universe_img.jpg)
 
 こちらの記事は、考察がメインになりますので、実際のカンファレンスの様子につきましては、別途以下のリンクにて
 紹介しております。
@@ -27,14 +27,11 @@ LLMとGitHub連携による、セキュリティやワークフローの自動�
 
 また、今回のCopilotのUpdateについても触れたいと思います。
 
-### 私の紹介
-![me](img/me.jpeg)
+### Hello World Masato!
+![me](img/me.jpg)
 masato matsudoと申します。 毎日contributeするを心がけています。
 経歴等を全部書くと長くなるので、割愛しますが、今は、株式会社大阪ヒートクールでEdge & Software Engineer
 や、別のスタートアップでVPOE、Mobile開発、kubernetesをやっています。
-
-![contribute](img/github.png)
-
 好きな事は、kubernetesのPodをRolloutすることで、
 `k rollout deploy <deployment名> -n <namespace名>`をするのが好きです。
 
