@@ -54,10 +54,8 @@ https://www.oreilly.com/library/view/97-things-every/9781492050896/ch73.html
 
 ### 「LLM + GitHub連携による、セキュリティやCI/CDワークフローの自動化」
 
+![company](img/company.jpg)
 
-![img](img/sponser_ima.png)
-
-![floor](img/floor.jpg)
 Github Universeでは、おそらくスポンサーのブースが設けられ、大きく3つのグループが存在しました。
 
 
