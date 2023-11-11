@@ -89,34 +89,6 @@ Github Universeでは、おそらくスポンサーのブースが設けられ�
 どちらかというと、スポンサー1は、名前をより売る為に、Github Universeのメインフロアを使って、自社の製品を知ってもらうという感じでした。
 
 
-- Docker
-
-https://www.docker.com/
-
-- DataDog
-
-https://www.datadoghq.com/ja/lpg/?utm_source=advertisement&utm_medium=search&utm_campaign=dg-google-brand-ww&utm_keyword=%2Bdatadog&utm_matchtype=b&utm_campaignid=9551169254&utm_adgroupid=95325237782&gad_source=1&gclid=CjwKCAiAxreqBhAxEiwAfGfndMn0dnfssBUurjYXEFSbVTRnOtyGp4TX6wjFVo7_S0pMtoi4o4tF_hoCBAQQAvD_BwE
-
-- PostMan
-
-https://www.postman.com/
-
-- octopus Deploy
-
-https://octopus.com/
-
-- microsoft
-  
-https://www.microsoft.com/en-us/
-
-- xebia
-
-https://xebia.com/
-
-- arm
-
-https://www.arm.com/
-
 ![group](img/group-2.jpg)
 
 スポンサー2については、利用ユーザーはかなりいるが、少しマイナーでもあるといった企業が立ち並んでいました。
