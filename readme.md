@@ -115,3 +115,33 @@ https://www.arm.com/
 #### Saasとリポジトリを解析して、コードをリファクタリングしてPull Requestを用いてSuggestしてくれるサービスが増加するのではないか？
 
 ![llm](img/saasllm.jpeg)
+
+あるSaaSとGithubのリポジトリを連携させて、連携させることで、Saasの中に搭載されてるLLMが、より良いコードの書き方などを生成して
+Pull Requestを作成して、Userにsuggestしてくれるというサービスが増えていくのではないかと思いました。
+
+私は、とあるプロジェクトで、renovateと今回のスポンサーで展示されていた、mend.ioを使用して、
+terraformで書かれてるproviderが常に最新かをcheckしてくれるような、ワークフローを導入しています。
+githubのdependantBotは、terraformのversionまでは監視してくれるのですが、terraformのなかのproviderまでは、監視してくれません。
+これらはrenovate+mend.ioを使用すると、定期実行でリポジトリをチェックしてproviderを使用しているかをチェックしてくれて常に最新にgcp providerなどが保てます。
+
+https://github.com/renovatebot/renovate
+
+```terraform
+terraform {
+  #...省略
+  required_providers {
+    google = {
+      source  = "hashicorp/google"
+      version = "4.80.0" #TODO: renovateでこのversionを監視してくれる。
+    }
+    sentry = {
+      source  = "jianyuan/sentry"
+      version = "0.11.2" #TODO: renovateでこのversionを監視してくれる。
+    }
+  }
+}
+```
+
+
+
+
