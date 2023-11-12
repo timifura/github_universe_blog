@@ -144,6 +144,10 @@ https://www.pixee.ai/
 とても大変だと思っています。このようなGitRepositoryと連携してコードメンテナンスがしやすくなると開発者の負担が減るのではないかと思いました。
 ...その分、サービスに対してのセキュリティとかは心配なので、検証または、オンプレなどの展開方法を検討する必要がありそうではありますが...
 
+### Github Parker
+
+
+
 ### Thank you! Github Universe 2023
 
 ![stacker](img/stacker.jpg)
@@ -158,7 +162,7 @@ https://www.pixee.ai/
 とCopilotにSuggestされていますが、ここはRejectをして、次回も世界で行われるカンファレンスに参加して、いち早く、最速で
 現地でどのようなことが起きてるのかを伝えていきたいと思います。
 
-### San Francisco at Ai Town
+### Running Auto Drive Mobility at San Francisco
 
 ![auto](img/waymo.jpg)
 サンフランシスコで、自動運転の車が増えたとは聞いていたのですが、
@@ -176,6 +180,22 @@ https://waymo.com/
 
 https://getcruise.com/
 
+#### Many Many Tesla
+
+![tesla](img/tesla.jpg)
+
+waymo製の自動運転以外に、Teslaがとにかく多い。 30秒に一台くらいの割合で見かけました。
+サンフランシスコの街中では、自動運転車を抜いて大体
+
+1. Tesla
+2. 日本車(Honda,Subaru etc.)
+3. その他高級車など
+
+の3種類ぐらい分けられます。去年までは、2と3の比率は多かったのですが、そのうちほとんどがTeslaに
+変わっていくのではないかと思うぐらいあちこちでTesla車が走っていました。
+
+https://rkb.jp/contents/202305/167787/
+
 ### Palo Alto and Mountain View
 
 ![google-plex](img/google-plex.jpg)
@@ -185,6 +205,9 @@ https://getcruise.com/
 Google Storeとカフェができていました。
 ![google-play-store](img/google-store.jpg)
 
+![cafe](img/cafe.jpg)
+Cafeのメニューには、「The Engineer」というメニューがあり、
+ハチミツが入ってるコーヒーがきました。
 
 ### My Hope for the Future
 
