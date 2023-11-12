@@ -178,6 +178,12 @@ https://getcruise.com/
 
 ### Palo Alto and Mountain View
 
+![google-plex](img/google-plex.jpg)
+
+スタンフォードがあるPalo Altoと、Google本社があるGooglePlex(よくメディアに出てくる上記の画像の場所はGooglePlexといいます。)にも行ってきました。
+去年は、Merchandise Storeがしまってたのですが、今年は、コロナが開けて、GooglePlexの横に 新しく
+Google Storeとカフェができていました。
+![google-play-store](img/google-store.jpg)
 
 
 ### My Hope for the Future
