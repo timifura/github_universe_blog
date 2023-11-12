@@ -144,9 +144,6 @@ https://www.pixee.ai/
 とても大変だと思っています。このようなGitRepositoryと連携してコードメンテナンスがしやすくなると開発者の負担が減るのではないかと思いました。
 ...その分、サービスに対してのセキュリティとかは心配なので、検証または、オンプレなどの展開方法を検討する必要がありそうではありますが...
 
-### Github Parker
-
-
 
 ### Thank you! Github Universe 2023
 
@@ -210,8 +207,13 @@ Cafeのメニューには、「The Engineer」というメニューがあり、
 ハチミツが入ってるコーヒーがきました。
 
 ### My Hope for the Future
+![myenginner](img/enginner.jpg)
+kubernetes・terraform・Flutter・Next.js・Pythonを使用 サービスを拡大させるためのディレクトリ構成
+を考えていく一方、世界の技術カンファレンスに参加し世界の現地のsoftware engineer技術をメディアより早く伝えていきたいです。
 
-
+![computer-communication](img/computer-communication.jpeg)
+これはまだ構想にすぎないのですが、「Reconciliation Loop」の理論を中心にコンピュータが人間の行動を無意識的にセンシングしアシストフィードバックしてくれる世界・プロダクトの構築
+を考えています。
 
 
 ### スポンサー
